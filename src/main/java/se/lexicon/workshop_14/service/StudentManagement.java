@@ -1,4 +1,4 @@
 package se.lexicon.workshop_14.service;
 
-public class ScannerInputService {
+public interface StudentManagement {
 }
